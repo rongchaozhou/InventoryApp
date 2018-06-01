@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="padding_little">4dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_middle">16dp</dimen>
+    <dimen name="list_item_image">32dp</dimen>
+    <dimen name="padding_large">48dp</dimen>
 </resources>

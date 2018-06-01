@@ -1,5 +1,56 @@
 <resources>
     <string name="app_name">InventoryApp</string>
+    <!--menu-->
+    <string name="action_insert_dummy_product">Insert Dummy Product</string>
+    <string name="action_delete_all_entries">Delete All Products</string>
 
-    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+
+    <!--activity_main-->
+    <string name="empty_title">No product in inventory…</string>
+    <string name="empty_subtitle">Get started by adding one</string>
+
+    <!--activity_editor-->
+
+    <string name="product_overview">Overview</string>
+    <string name="product_supplier">Supplier</string>
+
+    <string name="product_name_hint">Name</string>
+    <string name="product_price_hint">Price</string>
+    <string name="product_quantity_hint">Quantity</string>
+    <string name="supplier_name_hint">Supplier Name</string>
+    <string name="supplier_phone_hint">Phone</string>
+
+    <!--EditorActivity-->
+
+    <string name="input_quantity_first">Input quantity first!</string>
+    <string name="quantity_be_no_negative">Quantity should be no negative!</string>
+
+    <string name="please_enter_the_product_s_name">Please enter the product\'s name!</string>
+    <string name="please_enter_the_product_s_price">Please enter the product\'s price!</string>
+    <string name="price_be_positive">Price should be positive!</string>
+    <string name="please_enter_the_product_s_quantity">Please enter the product\'s quantity!</string>
+    <string name="please_enter_the_supplier_s_name">Please enter the supplier\'s name!</string>
+    <string name="please_enter_the_supplier_s_phone_number">"Please enter the supplier\'s phone number!"</string>
+
+    <string name="editor_activity_title_new_product">Add a Product</string>
+    <string name="editor_activity_title_edit_product">Edit Product</string>
+
+    <string name="editor_insert_product_failed">Error with saving product</string>
+    <string name="editor_insert_product_successful">Product saved</string>
+    <string name="editor_update_product_failed">Error with updating product</string>
+    <string name="editor_update_product_successful">Product updated</string>
+
+    <string name="delete_dialog_msg">Delete this product?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="editor_delete_product_failed">Error with deleting product</string>
+    <string name="editor_delete_product_successful">Product deleted</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+
 </resources>

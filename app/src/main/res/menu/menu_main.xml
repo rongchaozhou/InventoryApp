@@ -6,7 +6,12 @@
 
     <item
         android:id="@+id/action_insert_dummy_data"
-        android:title="@string/action_insert_dummy_data"
+        android:title="@string/action_insert_dummy_product"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_delete_all_entries"
+        android:title="@string/action_delete_all_entries"
         app:showAsAction="never" />
 
 </menu>

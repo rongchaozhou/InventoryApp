@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!--activity_main-->
+    <color name="empty_subtitle">#A2AAB0</color>
+
+    <!--list_item-->
+    <color name="list_item_name">#2B3D4D</color>
+    <color name="list_item_number">#AEB6BD</color>
+
 </resources>
